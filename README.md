@@ -1,5 +1,5 @@
 <!-- ============================================= -->
-<!--   GitHub Profile README — Arpit Wasnik         -->
+<!--    GitHub Profile README — Arpit Wasnik         -->
 <!-- ============================================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF79C6,50:BD93F9,100:8BE9FD&height=180&section=header&text=Arpit%20Wasnik&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
@@ -21,4 +21,14 @@
   <a href="mailto:arpitwasnik25@gmail.com">
     <img src="https://img.shields.io/badge/Email-arpitwasnik25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<!-- ============================================= -->
+<!--            Snake Animation Section            -->
+<!-- ============================================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arpit25042005/Arpit25042005/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
